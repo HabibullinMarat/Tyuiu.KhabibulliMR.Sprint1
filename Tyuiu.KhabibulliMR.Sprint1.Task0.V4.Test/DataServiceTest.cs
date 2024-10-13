@@ -1,6 +1,6 @@
-using Tyuiu.KhabibulliMR.Sprint1.Task0.V4.Lib;
+using Tyuiu.KhabibullinMR.Sprint1.Task0.V4.Lib;
 
-namespace Tyuiu.KHabibullinMR.Sprint1.Task0.V4.Test
+namespace Tyuiu.KhabibullinMR.Sprint1.Task0.V4.Test
 {
     [TestClass]
     public class DataServiceTest
