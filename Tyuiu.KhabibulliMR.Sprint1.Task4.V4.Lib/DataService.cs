@@ -6,7 +6,7 @@ namespace Tyuiu.KhabibulliMR.Sprint1.Task4.V4.Lib
     {
         public double Calculate(double x, double y)
         {
-            double res = (1 + x * y) / (Math.Abs(x+2));
+            double res = Math.Round((1 + x * y) / (Math.Abs(x+2)),3);
             return res;
         }
     }
